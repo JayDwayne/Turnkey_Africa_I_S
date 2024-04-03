@@ -40,6 +40,7 @@ public class FibonacciSequence {
 
     public static void main(String[] args) {
         int userInput = getValidInput();
-        generateFibonacciSequence(userInput);
+        generateFibonacciSequence(userInput);   
     }
 }
+
