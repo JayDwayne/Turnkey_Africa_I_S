@@ -22,3 +22,4 @@ public class LargestDifferenceCalculator {
         System.out.println("The largest difference is: " + result);
     }
 }
+
